@@ -18,5 +18,5 @@
 
 
 
-9. git log or git oneline
+9. git log or git log --oneline
 10. git checkout 998597g (for deleting any code , number is for that one we want to change)
