@@ -13,3 +13,5 @@
 4. git config --global user.email "A@gmail.com" (for adding email)
 5. git config --list (see all )
 6. git --all (to add all files) or (git add .)
+7. git commint 
+8. i, files added, :x
