@@ -15,3 +15,8 @@
 6. git --all (to add all files) or (git add .)
 7. git commint 
 8. i, files added, :x
+
+
+
+9. git log or git oneline
+10. git checkout 998597g (for deleting any code , number is for that one we want to change)
