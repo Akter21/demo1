@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+1. Clear (for clear all text from git bash)
+2. git status (for see the tracked and untracked files)
+3. git config --global user.name "AKTER" ( for adding user name)
+4. git config --global user.email "A@gmail.com" (for adding email)
+5. git config --list (see all )
+6. git --all (to add all files) or (git add .)
